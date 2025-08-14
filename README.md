@@ -1,4 +1,4 @@
-# Bai2.3.1_Buoi-2_Nhom9_CNTT1809.ipynb
+# Bai2.3.1_Buoi-2_Nhom8_CNTT1809.ipynb
 
 # - Trong thư viện có 10 quyển sách về lịch sử và 12 quyển sách về khoa học. Nếu bạn muốn mượn một quyển sách, bạn có bao nhiêu lựa chọn?
 so_sach_lich_su = 10
